@@ -56,5 +56,4 @@ linux-troubleshooting-portfolio/
 │
 ├── methodology/
 ├── scenarios/
-├── tools/
 └── case-studies/
