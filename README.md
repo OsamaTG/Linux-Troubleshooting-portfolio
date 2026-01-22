@@ -25,10 +25,8 @@ Focused on diagnosing, isolating, and resolving complex Linux system issues effi
 
 ## 📂 Portfolio Highlights
 - **Methodology:** Step-by-step structured approach to Linux troubleshooting.
-- **Real-World Scenarios:**  
-  - SSH connection issues, FD exhaustion, I/O wait freezes, Web server permissions, etc.
-- **Advanced Tool Usage:**  
-  Detailed examples showing commands, flags, and practical applications.
+- **Real-World Scenarios:** SSH connection issues, FD exhaustion, I/O wait freezes, Web server permissions, etc.
+- **Advanced Tool Usage:** Detailed examples showing commands, flags, and practical applications.
 - **Case Studies:** Multi-layer failure analysis and documented solutions.
 
 ---
