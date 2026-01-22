@@ -1,6 +1,6 @@
-# Osama – Linux SysOps & Troubleshooting Specialist
+# Osama – Linux SysOps & Troubleshooting Engineer
 
-**TopRated Freelance Linux Troubleshooter**  
+**Freelance Linux Troubleshooter**  
 Focused on diagnosing, isolating, and resolving complex Linux system issues efficiently and reliably.
 
 ---
@@ -13,11 +13,9 @@ Focused on diagnosing, isolating, and resolving complex Linux system issues effi
 
 ---
 
-## 🛠️ Core Skills & Tools
+## 🛠️ Core Skills
 - **Linux Layers Mastery:**  
   Logs, Services, Resources, Network, IO, Trace
-- **Essential Tools:**  
-  `lsof`, `ss`, `journalctl`, `auditctl`, `perf`, `strace`, `htop`, `iostat`, `vmstat`
 - **Troubleshooting Workflow:**  
   Layer isolation → Hypothesis → Investigation → Verification → Fix → Prevention
 - **System Hardening & Optimization:**  
@@ -36,7 +34,7 @@ Focused on diagnosing, isolating, and resolving complex Linux system issues effi
 ---
 
 ## 📈 Achievements
-- Solved 100+ Linux troubleshooting scenarios, documented and verified.
+- Solved 0 Linux troubleshooting scenarios, documented and verified.
 - Built reusable templates for fast diagnosis and reporting.
 - Consistently maintained **structured documentation** of failures for learning and sharing.
 - Rated highly by clients for **accuracy, speed, and professionalism**.
@@ -47,9 +45,8 @@ Focused on diagnosing, isolating, and resolving complex Linux system issues effi
 1. **Identify the symptoms** → logs, errors, or slow performance.
 2. **Isolate the layer** → CPU, memory, service, network, or I/O.
 3. **Form hypotheses** → consider common and uncommon causes.
-4. **Use the right tools** → lsof, ss, auditctl, perf, journalctl, etc.
-5. **Verify root cause** → cross-check evidence across layers.
-6. **Apply fix & preventive measures** → document for future.
+4. **Verify root cause** → cross-check evidence across layers.
+5. **Apply fix & preventive measures** → document for future.
 
 ---
 
